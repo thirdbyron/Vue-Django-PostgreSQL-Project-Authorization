@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Circe-Regular";
+    font-style: normal;
+    src: url(~assets/fonts/Circe-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Circe-Light";
+    font-style: normal;
+    src: url(~assets/fonts/Circe-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Circe-ExtraBold";
+    font-style: normal;
+    src: url(~assets/fonts/Circe-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Circe-Bold";
+    font-style: normal;
+    src: url(~assets/fonts/Circe-Bold.ttf) format("truetype");
+}
+
+
+
+
